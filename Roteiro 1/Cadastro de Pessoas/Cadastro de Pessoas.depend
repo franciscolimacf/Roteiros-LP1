@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1533750058 source:c:\users\aluno.ci-hp\desktop\cadastro de pessoas\main.cpp
+	<iostream>
+	"Pessoas.h"
+
+1533750081 c:\users\aluno.ci-hp\desktop\cadastro de pessoas\include\pessoas.h
+	<string>
+
+1533748303 source:c:\users\aluno.ci-hp\desktop\cadastro de pessoas\src\cadastrodepessoas.cpp
+	"CadastroDePessoas.h"
+
+1533748303 c:\users\aluno.ci-hp\desktop\cadastro de pessoas\include\cadastrodepessoas.h
+
+1533750092 source:c:\users\aluno.ci-hp\desktop\cadastro de pessoas\src\pessoas.cpp
+	"Pessoas.h"
+
+1533750246 source:c:\users\franf\documents\c++\cadastro de pessoas\main.cpp
+	<iostream>
+	"Pessoas.h"
+
+1533750081 c:\users\franf\documents\c++\cadastro de pessoas\include\pessoas.h
+	<string>
+
+1533748303 source:c:\users\franf\documents\c++\cadastro de pessoas\src\cadastrodepessoas.cpp
+	"CadastroDePessoas.h"
+
+1533748303 c:\users\franf\documents\c++\cadastro de pessoas\include\cadastrodepessoas.h
+
+1533750092 source:c:\users\franf\documents\c++\cadastro de pessoas\src\pessoas.cpp
+	"Pessoas.h"
+

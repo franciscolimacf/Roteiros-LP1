@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1533599730 source:c:\users\franf\documents\c++\data\main.cpp
+	<iostream>
+	"data.h"
+
+1533598812 source:c:\users\franf\documents\c++\data\src\data.cpp
+	"data.h"
+
+1533599727 c:\users\franf\documents\c++\data\include\data.h
+

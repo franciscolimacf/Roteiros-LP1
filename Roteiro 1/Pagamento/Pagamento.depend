@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1533770302 source:c:\users\franf\documents\c++\pagamento\main.cpp
+	<iostream>
+	"ControleDePagamentos.h"
+
+1533770081 c:\users\franf\documents\c++\pagamento\include\controledepagamentos.h
+	"Pagamento.h"
+
+1533769920 c:\users\franf\documents\c++\pagamento\include\pagamento.h
+	<string>
+
+1533769920 source:c:\users\franf\documents\c++\pagamento\src\pagamento.cpp
+	"Pagamento.h"
+
+1533770081 source:c:\users\franf\documents\c++\pagamento\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+

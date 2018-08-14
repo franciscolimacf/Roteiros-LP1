@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1533766937 source:c:\users\franf\documents\c++\despesas\src\despesa.cpp
+	"Despesa.h"
+
+1533766937 c:\users\franf\documents\c++\despesas\include\despesa.h
+	<string>
+
+1533766986 source:c:\users\franf\documents\c++\despesas\src\controledegastos.cpp
+	"ControleDeGastos.h"
+
+1533766979 c:\users\franf\documents\c++\despesas\include\controledegastos.h
+	"Despesa.h"
+
+1533767428 source:c:\users\franf\documents\c++\despesas\main.cpp
+	<iostream>
+	"ControleDeGastos.h"
+
